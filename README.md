@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex">
+<div style="display: flex; padding: 10px; background-color: white; border-radius: 5px;">
     <img style="margin: 10px; flex: 1" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img style="margin: 10px; flex: 1" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img style="margin: 10px; flex: 1" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
