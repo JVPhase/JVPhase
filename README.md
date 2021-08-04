@@ -56,7 +56,7 @@
 
 </details>
 
-<br/><br/><br/>
+<br/>
 
 ### 📕 Latest Telegram Posts
 
