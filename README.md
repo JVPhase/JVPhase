@@ -48,6 +48,16 @@
 
 <br/><br/><br/>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<br/><br/><br/>
+
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
