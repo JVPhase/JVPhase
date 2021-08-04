@@ -46,6 +46,15 @@
 
 ![JVPhase's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvphase)
 
+<br/><br/><br/>
+
+### 📕 Latest Telegram Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more telegram posts...][telegram]
+
 [github]: https://github.com/JVPhase
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjvphase&screen_name=jvphase
 [youtube]: https://www.youtube.com/c/JVPhase?sub_confirmation=1
