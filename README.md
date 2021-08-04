@@ -46,7 +46,7 @@
 
 ![JVPhase's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvphase)
 
-<br/><br/><br/>
+<br/>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
