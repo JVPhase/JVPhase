@@ -66,11 +66,11 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [До 12 августа 18:00 раздается бесплатно https://www.epicgames.com/store/ru/p/a-plague-tale-innocence](https://t.me/doebushka/8612)
 - [https://www.youtube.com/watch?v=Lz5mF02PTgk](https://t.me/doebushka/8609)
 - [Deploying to production on a Friday](https://t.me/doebushka/8606)
 - [https://www.youtube.com/watch?v=KFmEBuQ7fUg](https://t.me/doebushka/8604)
 - [Норм певас](https://t.me/doebushka/8602)
-- [Вашему внимаю представляется список сложнейших, практически неразрешимых задач в IT:- Инвалидация кэша- Придумывание наз...](https://t.me/doebushka/8601)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
