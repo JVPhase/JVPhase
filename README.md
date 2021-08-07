@@ -66,11 +66,11 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=Gn7as9a4wEs](https://t.me/doebushka/8616)
 - [– Ёбаный рот этого Xsolla, блядь! Ты кто такой, сука, чтоб это сделать? – Я всегда это делал, когда.. – ВЫ ЧЁ, ДЕБИЛЫ? В...](https://t.me/doebushka/8614)
 - [https://jira.atlassian.com/browse/JRASERVER-65811](https://t.me/doebushka/8613)
 - [До 12 августа 18:00 раздается бесплатно https://www.epicgames.com/store/ru/p/a-plague-tale-innocence](https://t.me/doebushka/8612)
 - [https://www.youtube.com/watch?v=Lz5mF02PTgk](https://t.me/doebushka/8609)
-- [Deploying to production on a Friday](https://t.me/doebushka/8606)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
