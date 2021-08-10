@@ -66,11 +66,11 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Тимлид у которого гуманитарное образование: 🗿](https://t.me/doebushka/8628)
 - [https://twitter.com/vetyyr/status/1424781096076693513?s=20](https://t.me/doebushka/8627)
 - [https://www.youtube.com/watch?v=J365hQpaWRw](https://t.me/doebushka/8623)
 - [https://www.youtube.com/watch?v=EeCX8Y0a278](https://t.me/doebushka/8622)
 - [https://www.youtube.com/watch?v=Yh3StOAutgk](https://t.me/doebushka/8621)
-- [https://www.youtube.com/watch?v=36g1FLPcg6s](https://t.me/doebushka/8620)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
