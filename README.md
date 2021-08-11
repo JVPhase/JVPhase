@@ -71,6 +71,13 @@
 - [– Ёбаный рот этого Xsolla, блядь! Ты кто такой, сука, чтоб это сделать? – Я всегда это делал, когда.. – ВЫ ЧЁ, ДЕБИЛЫ? В...](https://t.me/doebushka/8614)
 - [https://www.youtube.com/watch?v=Gn7as9a4wEs](https://t.me/doebushka/8616)
 - [https://dtf.ru/cinema/822079-aleksandr-nevskiy-vmeste-s-dzho-kornetom-zapustili-v-rabotu-sikvel-napadenie-na-rio-bravo-e...](https://t.me/doebushka/8617)
+- [https://www.youtube.com/watch?v=36g1FLPcg6s](https://t.me/doebushka/8620)
+- [https://www.youtube.com/watch?v=Yh3StOAutgk](https://t.me/doebushka/8621)
+- [https://www.youtube.com/watch?v=EeCX8Y0a278](https://t.me/doebushka/8622)
+- [https://www.youtube.com/watch?v=J365hQpaWRw](https://t.me/doebushka/8623)
+- [https://twitter.com/vetyyr/status/1424781096076693513?s=20](https://t.me/doebushka/8627)
+- [Тимлид у которого гуманитарное образование: 🗿](https://t.me/doebushka/8628)
+- [Когда в фильме с Райном Рейнольдсом нет озвучки Петра Гланца, то всё кажется таким посредственным https://youtu.be/rt-3R...](https://t.me/doebushka/8629)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
