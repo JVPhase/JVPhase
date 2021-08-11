@@ -12,7 +12,7 @@
 
 ## I'm a front-end developer
 
-- I'm developing my first react UI kit [TRUI][trui]
+- I'm developing my first react UI kit [TRUI][trui] and twitch chat interface [twitch-comments][tc]
 - I'm learning react-native [react-native-media-player][rn]
 - I like to [paint][instagram] and [play games][twitch]
 
@@ -90,4 +90,5 @@
 [telegram]: https://t.me/doebushka
 [linkedin]: https://www.linkedin.com/in/jvphase
 [trui]: https://github.com/JVPhase/trui
+[tc]: https://github.com/JVPhase/twitch-comments
 [rn]: https://github.com/JVPhase/react-native-media-player
