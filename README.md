@@ -67,7 +67,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Онлайн кинотеатр несуществующих фильмов https://nestflix.fun/](https://t.me/doebushka/8631)
-- [До 12 августа 18:00 раздается бесплатно https://www.epicgames.com/store/ru/p/a-plague-tale-innocence](https://t.me/doebushka/8612)
 - [https://jira.atlassian.com/browse/JRASERVER-65811](https://t.me/doebushka/8613)
 - [– Ёбаный рот этого Xsolla, блядь! Ты кто такой, сука, чтоб это сделать? – Я всегда это делал, когда.. – ВЫ ЧЁ, ДЕБИЛЫ? В...](https://t.me/doebushka/8614)
 - [https://www.youtube.com/watch?v=Gn7as9a4wEs](https://t.me/doebushka/8616)
@@ -78,6 +77,7 @@
 - [https://www.youtube.com/watch?v=J365hQpaWRw](https://t.me/doebushka/8623)
 - [https://twitter.com/vetyyr/status/1424781096076693513?s=20](https://t.me/doebushka/8627)
 - [Тимлид у которого гуманитарное образование: 🗿](https://t.me/doebushka/8628)
+- [Когда в фильме с Райном Рейнольдсом нет озвучки Петра Гланца, то всё кажется таким посредственным https://youtu.be/rt-3R...](https://t.me/doebushka/8629)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
