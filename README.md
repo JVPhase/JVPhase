@@ -68,7 +68,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dobby is a bad elf](https://t.me/doebushka/8634)
 - [Онлайн кинотеатр несуществующих фильмов https://nestflix.fun/](https://t.me/doebushka/8631)
-- [https://www.youtube.com/watch?v=Gn7as9a4wEs](https://t.me/doebushka/8616)
 - [https://dtf.ru/cinema/822079-aleksandr-nevskiy-vmeste-s-dzho-kornetom-zapustili-v-rabotu-sikvel-napadenie-na-rio-bravo-e...](https://t.me/doebushka/8617)
 - [https://www.youtube.com/watch?v=36g1FLPcg6s](https://t.me/doebushka/8620)
 - [https://www.youtube.com/watch?v=Yh3StOAutgk](https://t.me/doebushka/8621)
