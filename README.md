@@ -66,9 +66,9 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=lvPpgcX8WpE](https://t.me/doebushka/8637)
 - [Dobby is a bad elf](https://t.me/doebushka/8634)
 - [Онлайн кинотеатр несуществующих фильмов https://nestflix.fun/](https://t.me/doebushka/8631)
-- [https://dtf.ru/cinema/822079-aleksandr-nevskiy-vmeste-s-dzho-kornetom-zapustili-v-rabotu-sikvel-napadenie-na-rio-bravo-e...](https://t.me/doebushka/8617)
 - [https://www.youtube.com/watch?v=36g1FLPcg6s](https://t.me/doebushka/8620)
 - [https://www.youtube.com/watch?v=Yh3StOAutgk](https://t.me/doebushka/8621)
 - [https://www.youtube.com/watch?v=EeCX8Y0a278](https://t.me/doebushka/8622)
