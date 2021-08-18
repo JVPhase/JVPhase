@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JVPhase/onetwo/pull/1) in [JVPhase/onetwo](https://github.com/JVPhase/onetwo)
-2. 🎉 Merged PR [#20](https://github.com/JVPhase/trui/pull/20) in [JVPhase/trui](https://github.com/JVPhase/trui)
-3. 🎉 Merged PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
-4. 💪 Opened PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
-5. 🎉 Merged PR [#17](https://github.com/JVPhase/trui/pull/17) in [JVPhase/trui](https://github.com/JVPhase/trui)
+1. 🎉 Merged PR [#1](https://github.com/JVPhase/twitch-comments/pull/1) in [JVPhase/twitch-comments](https://github.com/JVPhase/twitch-comments)
+2. 🎉 Merged PR [#1](https://github.com/JVPhase/onetwo/pull/1) in [JVPhase/onetwo](https://github.com/JVPhase/onetwo)
+3. 🎉 Merged PR [#20](https://github.com/JVPhase/trui/pull/20) in [JVPhase/trui](https://github.com/JVPhase/trui)
+4. 🎉 Merged PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
+5. 💪 Opened PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
 <!--END_SECTION:activity-->
 
 </details>
