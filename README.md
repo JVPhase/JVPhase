@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=22Hy7jNoya4](https://t.me/doebushka/8644)
 - [https://youtu.be/InSN5fxASy8](https://t.me/doebushka/8643)
 - [https://clips.twitch.tv/SilkyTenaciousLampKreygasm-nw6hBmz9UGuxrTXW](https://t.me/doebushka/8642)
 - [​​Первые детали патча 1.3 для Cybeprunk 2077— Мини-карта теперь отдаляется во время езды;— Теперь игроки будут дольше ви...](https://t.me/doebushka/8639)
