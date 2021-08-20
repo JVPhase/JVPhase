@@ -66,11 +66,11 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://clips.twitch.tv/SilkyTenaciousLampKreygasm-nw6hBmz9UGuxrTXW](https://t.me/doebushka/8642)
 - [​​Первые детали патча 1.3 для Cybeprunk 2077— Мини-карта теперь отдаляется во время езды;— Теперь игроки будут дольше ви...](https://t.me/doebushka/8639)
 - [https://www.youtube.com/watch?v=lvPpgcX8WpE](https://t.me/doebushka/8637)
 - [Dobby is a bad elf](https://t.me/doebushka/8634)
 - [Онлайн кинотеатр несуществующих фильмов https://nestflix.fun/](https://t.me/doebushka/8631)
-- [https://www.youtube.com/watch?v=EeCX8Y0a278](https://t.me/doebushka/8622)
 - [https://www.youtube.com/watch?v=J365hQpaWRw](https://t.me/doebushka/8623)
 - [https://twitter.com/vetyyr/status/1424781096076693513?s=20](https://t.me/doebushka/8627)
 - [Тимлид у которого гуманитарное образование: 🗿](https://t.me/doebushka/8628)
