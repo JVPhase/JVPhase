@@ -73,7 +73,6 @@
 - [​​Первые детали патча 1.3 для Cybeprunk 2077— Мини-карта теперь отдаляется во время езды;— Теперь игроки будут дольше ви...](https://t.me/doebushka/8639)
 - [https://www.youtube.com/watch?v=lvPpgcX8WpE](https://t.me/doebushka/8637)
 - [Dobby is a bad elf](https://t.me/doebushka/8634)
-- [Онлайн кинотеатр несуществующих фильмов https://nestflix.fun/](https://t.me/doebushka/8631)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
