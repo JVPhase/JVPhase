@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
 - [Стрим в 21:30! ВЕДЬМАК 2 ПОЕХАЛИ ПОЕХАЛИ ПОЕХАЛИ! https://www.twitch.tv/jvphase](https://t.me/doebushka/8653)
 - [бесплатные игори до 2 сентября https://www.epicgames.com/store/ru/p/saints-row-the-third-remastered https://www.epicgame...](https://t.me/doebushka/8649)
 - [https://www.youtube.com/watch?v=22Hy7jNoya4](https://t.me/doebushka/8644)
@@ -73,7 +74,6 @@
 - [https://clips.twitch.tv/SilkyTenaciousLampKreygasm-nw6hBmz9UGuxrTXW](https://t.me/doebushka/8642)
 - [​​Первые детали патча 1.3 для Cybeprunk 2077— Мини-карта теперь отдаляется во время езды;— Теперь игроки будут дольше ви...](https://t.me/doebushka/8639)
 - [https://www.youtube.com/watch?v=lvPpgcX8WpE](https://t.me/doebushka/8637)
-- [Dobby is a bad elf](https://t.me/doebushka/8634)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
