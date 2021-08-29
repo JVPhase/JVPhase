@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some stuff will never always work as intended](https://t.me/doebushka/8656)
 - [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
 - [Стрим в 21:30! ВЕДЬМАК 2 ПОЕХАЛИ ПОЕХАЛИ ПОЕХАЛИ! https://www.twitch.tv/jvphase](https://t.me/doebushka/8653)
 - [бесплатные игори до 2 сентября https://www.epicgames.com/store/ru/p/saints-row-the-third-remastered https://www.epicgame...](https://t.me/doebushka/8649)
