@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Если вам мало сумасшедших историй про запуск Linux на микроволновках, то вот еще одна, где автор запустил Linux во фрагм...](https://t.me/doebushka/8658)
 - [Some stuff will never always work as intended](https://t.me/doebushka/8656)
 - [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
 - [Стрим в 21:30! ВЕДЬМАК 2 ПОЕХАЛИ ПОЕХАЛИ ПОЕХАЛИ! https://www.twitch.tv/jvphase](https://t.me/doebushka/8653)
