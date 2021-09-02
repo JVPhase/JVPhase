@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=Zz6oob45faU](https://t.me/doebushka/8660)
 - [Если вам мало сумасшедших историй про запуск Linux на микроволновках, то вот еще одна, где автор запустил Linux во фрагм...](https://t.me/doebushka/8658)
 - [Some stuff will never always work as intended](https://t.me/doebushka/8656)
 - [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
@@ -74,7 +75,6 @@
 - [https://www.youtube.com/watch?v=22Hy7jNoya4](https://t.me/doebushka/8644)
 - [https://youtu.be/InSN5fxASy8](https://t.me/doebushka/8643)
 - [https://clips.twitch.tv/SilkyTenaciousLampKreygasm-nw6hBmz9UGuxrTXW](https://t.me/doebushka/8642)
-- [​​Первые детали патча 1.3 для Cybeprunk 2077— Мини-карта теперь отдаляется во время езды;— Теперь игроки будут дольше ви...](https://t.me/doebushka/8639)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
