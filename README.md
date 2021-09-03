@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [тут стрим https://www.twitch.tv/jvphase](https://t.me/doebushka/8667)
 - [https://youtube.com/shorts/O8AB1vCcaiA?feature=share](https://t.me/doebushka/8665)
 - [https://youtube.com/shorts/6ucLgNtBrtU?feature=share](https://t.me/doebushka/8666)
 - [https://www.youtube.com/watch?v=Zz6oob45faU](https://t.me/doebushka/8660)
