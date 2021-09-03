@@ -66,15 +66,14 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://youtube.com/shorts/O8AB1vCcaiA?feature=share](https://t.me/doebushka/8665)
+- [https://youtube.com/shorts/6ucLgNtBrtU?feature=share](https://t.me/doebushka/8666)
 - [https://www.youtube.com/watch?v=Zz6oob45faU](https://t.me/doebushka/8660)
 - [Если вам мало сумасшедших историй про запуск Linux на микроволновках, то вот еще одна, где автор запустил Linux во фрагм...](https://t.me/doebushka/8658)
 - [Some stuff will never always work as intended](https://t.me/doebushka/8656)
 - [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
 - [Стрим в 21:30! ВЕДЬМАК 2 ПОЕХАЛИ ПОЕХАЛИ ПОЕХАЛИ! https://www.twitch.tv/jvphase](https://t.me/doebushka/8653)
 - [бесплатные игори до 2 сентября https://www.epicgames.com/store/ru/p/saints-row-the-third-remastered https://www.epicgame...](https://t.me/doebushka/8649)
-- [https://www.youtube.com/watch?v=22Hy7jNoya4](https://t.me/doebushka/8644)
-- [https://youtu.be/InSN5fxASy8](https://t.me/doebushka/8643)
-- [https://clips.twitch.tv/SilkyTenaciousLampKreygasm-nw6hBmz9UGuxrTXW](https://t.me/doebushka/8642)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
