@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=8qB8EGNOtr8](https://t.me/doebushka/8673)
 - [https://thechoiceisyours.whatisthematrix.com/ru/](https://t.me/doebushka/8671)
 - [https://www.youtube.com/watch?v=OiVCxZuUbCI](https://t.me/doebushka/8670)
 - [https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=1](https://t.me/doebushka/8669)
@@ -77,7 +78,6 @@
 - [Если вам мало сумасшедших историй про запуск Linux на микроволновках, то вот еще одна, где автор запустил Linux во фрагм...](https://t.me/doebushka/8658)
 - [Some stuff will never always work as intended](https://t.me/doebushka/8656)
 - [Продолжение в 22:00 НУ ВОТ ПРЯМ ЩА https://www.twitch.tv/jvphase](https://t.me/doebushka/8654)
-- [Стрим в 21:30! ВЕДЬМАК 2 ПОЕХАЛИ ПОЕХАЛИ ПОЕХАЛИ! https://www.twitch.tv/jvphase](https://t.me/doebushka/8653)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
