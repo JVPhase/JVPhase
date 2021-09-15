@@ -66,6 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного в тему: в августе я наткнулся на парня, который решил делать свои процессоры у себя в гараже, и к 2021 году он с...](https://t.me/doebushka/8679)
+- [шото прикольное https://www.youtube.com/watch?v=nv1_tUonggk](https://t.me/doebushka/8680)
 - [https://www.youtube.com/watch?v=pEyrpF0kSKI](https://t.me/doebushka/8678)
 - [https://www.youtube.com/watch?v=3X3JR3pG0I8](https://t.me/doebushka/8674)
 - [https://www.youtube.com/watch?v=AdZUrXCqUck](https://t.me/doebushka/8675)
@@ -76,8 +78,6 @@
 - [https://www.youtube.com/watch?v=OiVCxZuUbCI](https://t.me/doebushka/8670)
 - [https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=1](https://t.me/doebushka/8669)
 - [https://www.youtube.com/watch?v=PGk0rnyTa1U](https://t.me/doebushka/8668)
-- [тут стрим https://www.twitch.tv/jvphase](https://t.me/doebushka/8667)
-- [https://youtube.com/shorts/O8AB1vCcaiA?feature=share](https://t.me/doebushka/8665)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
