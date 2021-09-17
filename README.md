@@ -66,6 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Халява от стима https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/](https://t.me/doebushka/8685)
+- [Две халявы от егс https://www.epicgames.com/store/ru/p/tharsis https://www.epicgames.com/store/ru/p/speed-brawl](https://t.me/doebushka/8686)
 - [Немного в тему: в августе я наткнулся на парня, который решил делать свои процессоры у себя в гараже, и к 2021 году он с...](https://t.me/doebushka/8679)
 - [шото прикольное https://www.youtube.com/watch?v=nv1_tUonggk](https://t.me/doebushka/8680)
 - [https://www.youtube.com/watch?v=pEyrpF0kSKI](https://t.me/doebushka/8678)
@@ -76,8 +78,6 @@
 - [https://www.youtube.com/watch?v=8qB8EGNOtr8](https://t.me/doebushka/8673)
 - [https://thechoiceisyours.whatisthematrix.com/ru/](https://t.me/doebushka/8671)
 - [https://www.youtube.com/watch?v=OiVCxZuUbCI](https://t.me/doebushka/8670)
-- [https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=1](https://t.me/doebushka/8669)
-- [https://www.youtube.com/watch?v=PGk0rnyTa1U](https://t.me/doebushka/8668)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
