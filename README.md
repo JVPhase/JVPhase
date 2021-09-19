@@ -66,6 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [вот это дискотека](https://t.me/doebushka/8688)
+- [Freya Holmér на днях выложила такую картинку. Это не совсем точная, но очень емкая и хорошая трансляция математических н...](https://t.me/doebushka/8689)
 - [https://www.youtube.com/watch?v=7zqUl1mKucU](https://t.me/doebushka/8687)
 - [Халява от стима https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/](https://t.me/doebushka/8685)
 - [Две халявы от егс https://www.epicgames.com/store/ru/p/tharsis https://www.epicgames.com/store/ru/p/speed-brawl](https://t.me/doebushka/8686)
@@ -76,8 +78,6 @@
 - [https://www.youtube.com/watch?v=AdZUrXCqUck](https://t.me/doebushka/8675)
 - [https://www.youtube.com/watch?v=b3VwwQ-RmEk](https://t.me/doebushka/8676)
 - [https://www.youtube.com/watch?v=EE-4GvjKcfs](https://t.me/doebushka/8677)
-- [https://www.youtube.com/watch?v=8qB8EGNOtr8](https://t.me/doebushka/8673)
-- [https://thechoiceisyours.whatisthematrix.com/ru/](https://t.me/doebushka/8671)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
