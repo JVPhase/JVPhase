@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=s_J4m4LmN5A](https://t.me/doebushka/8690)
 - [вот это дискотека](https://t.me/doebushka/8688)
 - [Freya Holmér на днях выложила такую картинку. Это не совсем точная, но очень емкая и хорошая трансляция математических н...](https://t.me/doebushka/8689)
 - [https://www.youtube.com/watch?v=7zqUl1mKucU](https://t.me/doebushka/8687)
@@ -77,7 +78,6 @@
 - [https://www.youtube.com/watch?v=3X3JR3pG0I8](https://t.me/doebushka/8674)
 - [https://www.youtube.com/watch?v=AdZUrXCqUck](https://t.me/doebushka/8675)
 - [https://www.youtube.com/watch?v=b3VwwQ-RmEk](https://t.me/doebushka/8676)
-- [https://www.youtube.com/watch?v=EE-4GvjKcfs](https://t.me/doebushka/8677)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
