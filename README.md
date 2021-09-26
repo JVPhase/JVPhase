@@ -75,7 +75,6 @@
 - [Немного в тему: в августе я наткнулся на парня, который решил делать свои процессоры у себя в гараже, и к 2021 году он с...](https://t.me/doebushka/8679)
 - [шото прикольное https://www.youtube.com/watch?v=nv1_tUonggk](https://t.me/doebushka/8680)
 - [https://www.youtube.com/watch?v=pEyrpF0kSKI](https://t.me/doebushka/8678)
-- [https://www.youtube.com/watch?v=EE-4GvjKcfs](https://t.me/doebushka/8677)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
