@@ -72,7 +72,6 @@
 - [https://www.youtube.com/watch?v=7zqUl1mKucU](https://t.me/doebushka/8687)
 - [Халява от стима https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/](https://t.me/doebushka/8685)
 - [Две халявы от егс https://www.epicgames.com/store/ru/p/tharsis https://www.epicgames.com/store/ru/p/speed-brawl](https://t.me/doebushka/8686)
-- [Немного в тему: в августе я наткнулся на парня, который решил делать свои процессоры у себя в гараже, и к 2021 году он с...](https://t.me/doebushka/8679)
 - [шото прикольное https://www.youtube.com/watch?v=nv1_tUonggk](https://t.me/doebushka/8680)
 <!-- BLOG-POST-LIST:END -->
 
