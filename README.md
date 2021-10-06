@@ -67,7 +67,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [https://www.youtube.com/watch?v=s_J4m4LmN5A](https://t.me/doebushka/8690)
-- [вот это дискотека](https://t.me/doebushka/8688)
 - [Freya Holmér на днях выложила такую картинку. Это не совсем точная, но очень емкая и хорошая трансляция математических н...](https://t.me/doebushka/8689)
 <!-- BLOG-POST-LIST:END -->
 
