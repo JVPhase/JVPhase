@@ -66,7 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [https://www.youtube.com/watch?v=s_J4m4LmN5A](https://t.me/doebushka/8690)
+- [Даже не знаю, что сказать](https://t.me/doebushka/8713)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
