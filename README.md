@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Счастье было так близко](https://t.me/doebushka/8717)
 - [Даже не знаю, что сказать](https://t.me/doebushka/8713)
 <!-- BLOG-POST-LIST:END -->
 
