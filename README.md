@@ -66,6 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://cobbdev.itch.io/squid-game-the-game](https://t.me/doebushka/8723)
+- [https://youtu.be/tgUQgv9iLT4](https://t.me/doebushka/8724)
 - [Счастье было так близко](https://t.me/doebushka/8717)
 - [Даже не знаю, что сказать](https://t.me/doebushka/8713)
 <!-- BLOG-POST-LIST:END -->
