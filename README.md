@@ -72,7 +72,6 @@
 - [https://www.youtube.com/watch?v=gPDW6Ttrg5s](https://t.me/doebushka/8725)
 - [https://cobbdev.itch.io/squid-game-the-game](https://t.me/doebushka/8723)
 - [https://youtu.be/tgUQgv9iLT4](https://t.me/doebushka/8724)
-- [Счастье было так близко](https://t.me/doebushka/8717)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
