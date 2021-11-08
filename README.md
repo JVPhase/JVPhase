@@ -66,8 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Сук х)](https://t.me/doebushka/8736)
-- [УХ БЛЯ https://www.youtube.com/watch?v=i0XvzdqAb9k&t=2s](https://t.me/doebushka/8733)
+- [Сук х&rpar;](https://t.me/doebushka/8736)
+- [УХ БЛЯ https://www.youtube.com/watch?v=i0XvzdqAb9k&amp;t=2s](https://t.me/doebushka/8733)
 - [Наконец-то добрались до видео подкаста https://youtu.be/QMkIDDia364](https://t.me/doebushka/8732)
 - [https://www.youtube.com/watch?v=gPDW6Ttrg5s](https://t.me/doebushka/8725)
 - [https://cobbdev.itch.io/squid-game-the-game](https://t.me/doebushka/8723)
