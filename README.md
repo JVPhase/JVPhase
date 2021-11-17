@@ -66,11 +66,11 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://store.steampowered.com/app/1310970/RussianPunk_2007/](https://t.me/doebushka/8744)
 - [Сук х&rpar;](https://t.me/doebushka/8736)
 - [УХ БЛЯ https://www.youtube.com/watch?v=i0XvzdqAb9k&amp;t=2s](https://t.me/doebushka/8733)
 - [Наконец-то добрались до видео подкаста https://youtu.be/QMkIDDia364](https://t.me/doebushka/8732)
 - [https://www.youtube.com/watch?v=gPDW6Ttrg5s](https://t.me/doebushka/8725)
-- [https://youtu.be/tgUQgv9iLT4](https://t.me/doebushka/8724)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
