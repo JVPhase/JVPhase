@@ -52,7 +52,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JVPhase/twitch-comments/pull/1) in [JVPhase/twitch-comments](https://github.com/JVPhase/twitch-comments)
+1. 🎉 Merged PR [#1](https://github.com/JVPhase/JVPhase/pull/1) in [JVPhase/JVPhase](https://github.com/JVPhase/JVPhase)
 2. 🎉 Merged PR [#1](https://github.com/JVPhase/onetwo/pull/1) in [JVPhase/onetwo](https://github.com/JVPhase/onetwo)
 3. 🎉 Merged PR [#20](https://github.com/JVPhase/trui/pull/20) in [JVPhase/trui](https://github.com/JVPhase/trui)
 4. 🎉 Merged PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
