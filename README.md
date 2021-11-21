@@ -80,7 +80,7 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjvphase&screen_name=jvphase
 [youtube]: https://www.youtube.com/c/JVPhase?sub_confirmation=1
 [twitch]: https://www.twitch.tv/jvphase
-[instagram]: https://www.instagram.com/artphase.jv
+[instagram]: https://www.instagram.com/artphase.jv/
 [telegram]: https://t.me/doebushka
 [linkedin]: https://www.linkedin.com/in/jvphase
 [trui]: https://github.com/JVPhase/trui
