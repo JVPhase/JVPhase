@@ -72,7 +72,6 @@
 - [https://store.steampowered.com/app/1310970/RussianPunk_2007/](https://t.me/doebushka/8744)
 - [Сук х&rpar;](https://t.me/doebushka/8736)
 - [УХ БЛЯ https://www.youtube.com/watch?v=i0XvzdqAb9k&amp;t=2s](https://t.me/doebushka/8733)
-- [Наконец-то добрались до видео подкаста https://youtu.be/QMkIDDia364](https://t.me/doebushka/8732)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
