@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://museum.xbox.com/en/map](https://t.me/doebushka/8754)
 - [https://www.google.com/maps/@10.748745,106.6605148,3a,79.8y,352.96h,128.87t/data=!3m8!1e1!3m6!1sAF1QipMsMKP_0Yk4PkctGGVx...](https://t.me/doebushka/8748)
 - [https://www.youtube.com/watch?v=ai_armsOe1U](https://t.me/doebushka/8751)
 - [https://youtu.be/1AElONvi9WQ](https://t.me/doebushka/8745)
