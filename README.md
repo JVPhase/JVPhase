@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [А сейчас проверим антиспам бота. Спиддейтинг от ботов](https://t.me/doebushka/8770)
 - [халява https://www.epicgames.com/store/ru/p/dead-by-daylight](https://t.me/doebushka/8765)
 - [халява 2 https://www.epicgames.com/store/ru/p/while-true-learn](https://t.me/doebushka/8766)
 - [https://www.youtube.com/watch?v=9cNmUNHSBac](https://t.me/doebushka/8767)
