@@ -66,13 +66,12 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [А сейчас проверим антиспам бота. Спиддейтинг от ботов](https://t.me/doebushka/8770)
+- [https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/](https://t.me/doebushka/8771)
 - [халява https://www.epicgames.com/store/ru/p/dead-by-daylight](https://t.me/doebushka/8765)
 - [халява 2 https://www.epicgames.com/store/ru/p/while-true-learn](https://t.me/doebushka/8766)
 - [https://www.youtube.com/watch?v=9cNmUNHSBac](https://t.me/doebushka/8767)
 - [https://youtu.be/i9EvOcw7QLA](https://t.me/doebushka/8755)
 - [https://museum.xbox.com/en/map](https://t.me/doebushka/8754)
-- [https://www.youtube.com/watch?v=ai_armsOe1U](https://t.me/doebushka/8751)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
