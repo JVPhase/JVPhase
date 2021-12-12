@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=0WXSR0x_NVQ](https://t.me/doebushka/8773)
 - [https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/](https://t.me/doebushka/8771)
 - [халява https://www.epicgames.com/store/ru/p/dead-by-daylight](https://t.me/doebushka/8765)
 - [халява 2 https://www.epicgames.com/store/ru/p/while-true-learn](https://t.me/doebushka/8766)
