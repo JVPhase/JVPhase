@@ -72,8 +72,6 @@
 - [халява https://www.epicgames.com/store/ru/p/dead-by-daylight](https://t.me/doebushka/8765)
 - [халява 2 https://www.epicgames.com/store/ru/p/while-true-learn](https://t.me/doebushka/8766)
 - [https://www.youtube.com/watch?v=9cNmUNHSBac](https://t.me/doebushka/8767)
-- [https://youtu.be/i9EvOcw7QLA](https://t.me/doebushka/8755)
-- [https://museum.xbox.com/en/map](https://t.me/doebushka/8754)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
