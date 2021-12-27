@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [И снова халява https://www.epicgames.com/store/ru/p/control](https://t.me/doebushka/8781)
 - [https://media.discordapp.net/attachments/812877841631805440/921388031129300993/ieIYNgGIzEA.jpg](https://t.me/doebushka/8778)
 - [и снова халява до 21 декабря https://store.ubi.com/ru/rayman-origins/56c4948888a7e300458b47dc.html](https://t.me/doebushka/8774)
 - [https://www.youtube.com/watch?v=0WXSR0x_NVQ](https://t.me/doebushka/8773)
