@@ -66,7 +66,6 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [https://www.youtube.com/watch?v=9cNmUNHSBac](https://t.me/doebushka/8767)
 - [https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/](https://t.me/doebushka/8771)
 - [https://www.youtube.com/watch?v=0WXSR0x_NVQ](https://t.me/doebushka/8773)
 - [и снова халява до 21 декабря https://store.ubi.com/ru/rayman-origins/56c4948888a7e300458b47dc.html](https://t.me/doebushka/8774)
