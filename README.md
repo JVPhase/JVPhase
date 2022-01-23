@@ -67,7 +67,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Метаверс по версии ms](https://t.me/doebushka/8791)
-- [https://media.discordapp.net/attachments/812877841631805440/921388031129300993/ieIYNgGIzEA.jpg](https://t.me/doebushka/8778)
 - [И снова халява https://www.epicgames.com/store/ru/p/control](https://t.me/doebushka/8781)
 - [https://www.youtube.com/watch?v=Wof0xPUmW38](https://t.me/doebushka/8782)
 - [Вот так пролетел 2021](https://t.me/doebushka/8787)
