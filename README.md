@@ -67,7 +67,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Метаверс по версии ms](https://t.me/doebushka/8791)
-- [Вот так пролетел 2021](https://t.me/doebushka/8787)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
