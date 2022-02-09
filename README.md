@@ -66,8 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=BwZs3H_UN3k](https://t.me/doebushka/8814)
 - [https://meduza.io/short/2022/02/01/tsentr-mlechnogo-puti-gde-nahoditsya-sverhmassivnaya-chernaya-dyra-obychno-skryt-shir...](https://t.me/doebushka/8812)
-- [Метаверс по версии ms](https://t.me/doebushka/8791)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
