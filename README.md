@@ -52,8 +52,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/JVPhase/JVPhase/issues/2) in [JVPhase/JVPhase](https://github.com/JVPhase/JVPhase)
-2. 🎉 Merged PR [#1](https://github.com/JVPhase/JVPhase/pull/1) in [JVPhase/JVPhase](https://github.com/JVPhase/JVPhase)
+1. ❗️ Opened issue [#1767](https://github.com/GoogleChrome/chromium-dashboard/issues/1767) in [GoogleChrome/chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard)
+2. ❗️ Closed issue [#2](https://github.com/JVPhase/JVPhase/issues/2) in [JVPhase/JVPhase](https://github.com/JVPhase/JVPhase)
 3. 🎉 Merged PR [#20](https://github.com/JVPhase/trui/pull/20) in [JVPhase/trui](https://github.com/JVPhase/trui)
 4. 🎉 Merged PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
 5. 💪 Opened PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
