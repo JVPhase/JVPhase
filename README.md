@@ -68,7 +68,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [https://www.youtube.com/watch?v=HigUiDIcf1I](https://t.me/doebushka/8823)
 - [https://coub.com/view/30ncyw](https://t.me/doebushka/8822)
-- [https://www.youtube.com/watch?v=VrdMPUHpLOM](https://t.me/doebushka/8817)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
