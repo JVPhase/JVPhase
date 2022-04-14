@@ -66,10 +66,10 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Игры раньше:ЗАПУСТИЛ ЯРЛЫК@СПЛЕШ-СКРИН &lpar;нажми пробел чтобы пропустить&rpar;@НАЧАТЬ ИГРУ@МЫ ХОРОШИЕ ОНИ ПЛОХИЕ, НАЖМИ СТАРТ ЧТ...](https://t.me/doebushka/8843)
 - [твой батя на синте играетhttps://youtu.be/rKxxN0o-a48](https://t.me/doebushka/8842)
 - [https://youtu.be/ENX1mv2AiAw](https://t.me/doebushka/8839)
 - [https://www.youtube.com/watch?v=HigUiDIcf1I](https://t.me/doebushka/8823)
-- [https://coub.com/view/30ncyw](https://t.me/doebushka/8822)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
