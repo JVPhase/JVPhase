@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://youtube.com/clip/UgkxnDSE-FT-2ykDiP_AkNuhiEoC7nVtfyDX](https://t.me/doebushka/8858)
 - [https://youtu.be/7vG7ZhI8lXA](https://t.me/doebushka/8857)
 - [https://youtu.be/Iibka_3ggfk](https://t.me/doebushka/8855)
 - [Сегодня везёт на контент https://youtu.be/8y9QnS_tMkY](https://t.me/doebushka/8853)
@@ -75,7 +76,6 @@
 - [Ладно, этот бэтмен хорош https://www.youtube.com/watch?v=2MOFBV_TnO4](https://t.me/doebushka/8847)
 - [Игры раньше:ЗАПУСТИЛ ЯРЛЫК@СПЛЕШ-СКРИН &lpar;нажми пробел чтобы пропустить&rpar;@НАЧАТЬ ИГРУ@МЫ ХОРОШИЕ ОНИ ПЛОХИЕ, НАЖМИ СТАРТ ЧТ...](https://t.me/doebushka/8843)
 - [твой батя на синте играетhttps://youtu.be/rKxxN0o-a48](https://t.me/doebushka/8842)
-- [https://youtu.be/ENX1mv2AiAw](https://t.me/doebushka/8839)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
