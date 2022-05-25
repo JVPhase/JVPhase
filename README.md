@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Доброе утро](https://t.me/doebushka/8860)
 - [https://youtube.com/clip/UgkxnDSE-FT-2ykDiP_AkNuhiEoC7nVtfyDX](https://t.me/doebushka/8858)
 - [https://youtu.be/7vG7ZhI8lXA](https://t.me/doebushka/8857)
 - [https://youtu.be/Iibka_3ggfk](https://t.me/doebushka/8855)
