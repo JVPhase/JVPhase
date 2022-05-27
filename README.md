@@ -76,7 +76,6 @@
 - [https://www.youtube.com/watch?v=yTHOe7kCmig](https://t.me/doebushka/8846)
 - [Ладно, этот бэтмен хорош https://www.youtube.com/watch?v=2MOFBV_TnO4](https://t.me/doebushka/8847)
 - [Игры раньше:ЗАПУСТИЛ ЯРЛЫК@СПЛЕШ-СКРИН &lpar;нажми пробел чтобы пропустить&rpar;@НАЧАТЬ ИГРУ@МЫ ХОРОШИЕ ОНИ ПЛОХИЕ, НАЖМИ СТАРТ ЧТ...](https://t.me/doebushka/8843)
-- [твой батя на синте играетhttps://youtu.be/rKxxN0o-a48](https://t.me/doebushka/8842)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
