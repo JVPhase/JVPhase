@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Кунг-фу танк](https://t.me/doebushka/8862)
 - [Доброе утро](https://t.me/doebushka/8860)
 - [https://youtube.com/clip/UgkxnDSE-FT-2ykDiP_AkNuhiEoC7nVtfyDX](https://t.me/doebushka/8858)
 - [https://youtu.be/7vG7ZhI8lXA](https://t.me/doebushka/8857)
@@ -75,7 +76,6 @@
 - [чувак делает красивые миниатюры в играх https://www.youtube.com/watch?v=N9IeZqD43j4](https://t.me/doebushka/8852)
 - [https://www.youtube.com/watch?v=yTHOe7kCmig](https://t.me/doebushka/8846)
 - [Ладно, этот бэтмен хорош https://www.youtube.com/watch?v=2MOFBV_TnO4](https://t.me/doebushka/8847)
-- [Игры раньше:ЗАПУСТИЛ ЯРЛЫК@СПЛЕШ-СКРИН &lpar;нажми пробел чтобы пропустить&rpar;@НАЧАТЬ ИГРУ@МЫ ХОРОШИЕ ОНИ ПЛОХИЕ, НАЖМИ СТАРТ ЧТ...](https://t.me/doebushka/8843)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
