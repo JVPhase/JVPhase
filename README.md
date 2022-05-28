@@ -75,8 +75,6 @@
 - [Сегодня везёт на контент https://youtu.be/8y9QnS_tMkY](https://t.me/doebushka/8853)
 - [https://fxtwitter.com/TheFunny_mp4/status/1517851988729470985?t=FloZXidy7tyH_U0M6IbeVQ&amp;s=19](https://t.me/doebushka/8851)
 - [чувак делает красивые миниатюры в играх https://www.youtube.com/watch?v=N9IeZqD43j4](https://t.me/doebushka/8852)
-- [https://www.youtube.com/watch?v=yTHOe7kCmig](https://t.me/doebushka/8846)
-- [Ладно, этот бэтмен хорош https://www.youtube.com/watch?v=2MOFBV_TnO4](https://t.me/doebushka/8847)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
