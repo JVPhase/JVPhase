@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=DKNt3eHVhYY](https://t.me/doebushka/8869)
 - [https://youtu.be/4HLDaBGdnLc](https://t.me/doebushka/8864)
 - [Кунг-фу танк](https://t.me/doebushka/8862)
 - [Доброе утро](https://t.me/doebushka/8860)
