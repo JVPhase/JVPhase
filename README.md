@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3D-художник RwanLink настроил систему рендеринга на unreal engine 5 таким образом, чтобы картинка была похожа на мангу. ...](https://t.me/doebushka/8871)
 - [https://www.youtube.com/watch?v=DKNt3eHVhYY](https://t.me/doebushka/8869)
 - [https://youtu.be/4HLDaBGdnLc](https://t.me/doebushka/8864)
 - [Кунг-фу танк](https://t.me/doebushka/8862)
@@ -73,9 +74,6 @@
 - [https://youtube.com/clip/UgkxnDSE-FT-2ykDiP_AkNuhiEoC7nVtfyDX](https://t.me/doebushka/8858)
 - [https://youtu.be/7vG7ZhI8lXA](https://t.me/doebushka/8857)
 - [https://youtu.be/Iibka_3ggfk](https://t.me/doebushka/8855)
-- [Сегодня везёт на контент https://youtu.be/8y9QnS_tMkY](https://t.me/doebushka/8853)
-- [https://fxtwitter.com/TheFunny_mp4/status/1517851988729470985?t=FloZXidy7tyH_U0M6IbeVQ&amp;s=19](https://t.me/doebushka/8851)
-- [чувак делает красивые миниатюры в играх https://www.youtube.com/watch?v=N9IeZqD43j4](https://t.me/doebushka/8852)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
