@@ -66,13 +66,13 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=NgsWGfUlwJI](https://t.me/doebushka/8878)
 - [https://youtu.be/a4JLtfPmlUM](https://t.me/doebushka/8877)
 - [3D-художник RwanLink настроил систему рендеринга на unreal engine 5 таким образом, чтобы картинка была похожа на мангу. ...](https://t.me/doebushka/8871)
 - [https://www.youtube.com/watch?v=DKNt3eHVhYY](https://t.me/doebushka/8869)
 - [https://youtu.be/4HLDaBGdnLc](https://t.me/doebushka/8864)
 - [Кунг-фу танк](https://t.me/doebushka/8862)
 - [Доброе утро](https://t.me/doebushka/8860)
-- [https://youtube.com/clip/UgkxnDSE-FT-2ykDiP_AkNuhiEoC7nVtfyDX](https://t.me/doebushka/8858)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
