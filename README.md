@@ -52,9 +52,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/JVPhase/ibitcy-test/pull/1) in [JVPhase/ibitcy-test](https://github.com/JVPhase/ibitcy-test)
-2. ❗️ Opened issue [#1767](https://github.com/GoogleChrome/chromium-dashboard/issues/1767) in [GoogleChrome/chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard)
-3. 🎉 Merged PR [#20](https://github.com/JVPhase/trui/pull/20) in [JVPhase/trui](https://github.com/JVPhase/trui)
+1. ❗️ Closed issue [#2](https://github.com/JVPhase/rent-scraper/issues/2) in [JVPhase/rent-scraper](https://github.com/JVPhase/rent-scraper)
+2. 🎉 Merged PR [#1](https://github.com/JVPhase/rent-scraper/pull/1) in [JVPhase/rent-scraper](https://github.com/JVPhase/rent-scraper)
+3. ❌ Closed PR [#1](https://github.com/JVPhase/ibitcy-test/pull/1) in [JVPhase/ibitcy-test](https://github.com/JVPhase/ibitcy-test)
 4. 🎉 Merged PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
 5. 💪 Opened PR [#18](https://github.com/JVPhase/trui/pull/18) in [JVPhase/trui](https://github.com/JVPhase/trui)
 <!--END_SECTION:activity-->
