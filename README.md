@@ -66,7 +66,6 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3D-художник RwanLink настроил систему рендеринга на unreal engine 5 таким образом, чтобы картинка была похожа на мангу. ...](https://t.me/doebushka/8871)
 - [https://youtu.be/a4JLtfPmlUM](https://t.me/doebushka/8877)
 - [https://www.youtube.com/watch?v=NgsWGfUlwJI](https://t.me/doebushka/8878)
 - [Наконец продолжение драйва](https://t.me/doebushka/8880)
