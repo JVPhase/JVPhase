@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam. It’s me, Die-Hardman. pinned a photo](https://t.me/doebushka/8895)
 - [Разыгрываю набор «Есть чем заняться»Чтобы участвовать в розыгрыше необходимо подписать на этот канал.Победитель определи...](https://t.me/doebushka/8894)
 - [https://youtu.be/a4JLtfPmlUM](https://t.me/doebushka/8877)
 - [https://www.youtube.com/watch?v=NgsWGfUlwJI](https://t.me/doebushka/8878)
