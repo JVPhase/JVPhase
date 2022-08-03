@@ -66,7 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Наконец продолжение драйва](https://t.me/doebushka/8880)
+- [https://www.youtube.com/watch?v=r0YSrEvpah8](https://t.me/doebushka/8904)
+- [Когда в твой любимый бар привезли смузи &lpar;облепиховый&rpar;](https://t.me/doebushka/8905)
 - [https://www.youtube.com/watch?v=A9hCzjBc7Q4](https://t.me/doebushka/8902)
 - [дождались https://www.youtube.com/watch?v=NV_d0kmwNL8](https://t.me/doebushka/8898)
 - [Sam. It’s me, Die-Hardman. pinned a photo](https://t.me/doebushka/8895)
