@@ -73,7 +73,6 @@
 - [дождались https://www.youtube.com/watch?v=NV_d0kmwNL8](https://t.me/doebushka/8898)
 - [Sam. It’s me, Die-Hardman. pinned a photo](https://t.me/doebushka/8895)
 - [Разыгрываю набор «Есть чем заняться»Чтобы участвовать в розыгрыше необходимо подписать на этот канал.Победитель определи...](https://t.me/doebushka/8894)
-- [lunch time 🍽️](https://t.me/doebushka/8889)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
