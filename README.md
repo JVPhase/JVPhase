@@ -66,14 +66,14 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://youtu.be/aw1O6jpASTI](https://t.me/doebushka/8912)
+- [🤷‍♀️](https://t.me/doebushka/8913)
 - [👀👀👀😏🪵🪵🪵🪵🌲🪟🪟🌲🌲🔥🔥🌲👀🎂🌲🪵🪵🌲🔦🔥🌷🌎🌎🌎🌎🌎🌎🌎🗿🗿🗿🔥🔥🗿🗿🗿🗿🔥🗿🗿🗿🗿🗿👀👀👀🗿🗿🗿🗿👀👀👀👀💎🗿🗿🤘👀💃👀👀🗿🗿🤘🔦🌰⚒🚽🗿🗿🗿🗿🟦🗿🚽🗿⬜️🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽⬜️🚽⬜️⬜️⬜️🚽](https://t.me/doebushka/8909)
 - [https://youtube.com/shorts/qVbe8BdqjUk?feature=share](https://t.me/doebushka/8907)
 - [https://www.youtube.com/watch?v=r0YSrEvpah8](https://t.me/doebushka/8904)
 - [Когда в твой любимый бар привезли смузи &lpar;облепиховый&rpar;](https://t.me/doebushka/8905)
 - [https://www.youtube.com/watch?v=A9hCzjBc7Q4](https://t.me/doebushka/8902)
 - [дождались https://www.youtube.com/watch?v=NV_d0kmwNL8](https://t.me/doebushka/8898)
-- [Sam. It’s me, Die-Hardman. pinned a photo](https://t.me/doebushka/8895)
-- [Разыгрываю набор «Есть чем заняться»Чтобы участвовать в розыгрыше необходимо подписать на этот канал.Победитель определи...](https://t.me/doebushka/8894)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
