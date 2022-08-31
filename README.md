@@ -69,7 +69,6 @@
 - [Бля, лучшая реклама](https://t.me/doebushka/8923)
 - [https://youtu.be/aw1O6jpASTI](https://t.me/doebushka/8912)
 - [🤷‍♀️](https://t.me/doebushka/8913)
-- [👀👀👀😏🪵🪵🪵🪵🌲🪟🪟🌲🌲🔥🔥🌲👀🎂🌲🪵🪵🌲🔦🔥🌷🌎🌎🌎🌎🌎🌎🌎🗿🗿🗿🔥🔥🗿🗿🗿🗿🔥🗿🗿🗿🗿🗿👀👀👀🗿🗿🗿🗿👀👀👀👀💎🗿🗿🤘👀💃👀👀🗿🗿🤘🔦🌰⚒🚽🗿🗿🗿🗿🟦🗿🚽🗿⬜️🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽🚽⬜️🚽⬜️⬜️⬜️🚽](https://t.me/doebushka/8909)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
