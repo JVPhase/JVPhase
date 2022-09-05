@@ -66,8 +66,8 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Прыжок на 10 из 10r/#WhatsWrongWithYourCat](https://t.me/doebushka/8932)
 - [Бля, лучшая реклама](https://t.me/doebushka/8923)
-- [https://youtu.be/aw1O6jpASTI](https://t.me/doebushka/8912)
 - [🤷‍♀️](https://t.me/doebushka/8913)
 <!-- BLOG-POST-LIST:END -->
 
