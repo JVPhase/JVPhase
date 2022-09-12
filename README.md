@@ -66,10 +66,10 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://robomojo.io/](https://t.me/doebushka/8942)
 - [react says “horny is not allowed”](https://t.me/doebushka/8938)
 - [но мемы будут попізже](https://t.me/doebushka/8936)
 - [Прыжок на 10 из 10r/#WhatsWrongWithYourCat](https://t.me/doebushka/8932)
-- [Бля, лучшая реклама](https://t.me/doebushka/8923)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
