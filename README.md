@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Моддеры вдохновились рекламой God of War от лысого Рика и Морти и добавили его в четвёртую частьСпидран за 20 минут, заш...](https://t.me/doebushka/8944)
 - [https://robomojo.io/](https://t.me/doebushka/8942)
 - [react says “horny is not allowed”](https://t.me/doebushka/8938)
 - [но мемы будут попізже](https://t.me/doebushka/8936)
