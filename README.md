@@ -65,7 +65,8 @@
 
 ### 📕 Latest Telegram Posts
 
-<!-- BLOG-POST-LIST:START -->* react says “horny is not allowed”
+<!-- BLOG-POST-LIST:START -->
+* react says “horny is not allowed”
 ![react says “horny is not allowed”](https://cdn4.telegram-cdn.org/file/s08qfsiYHBV69QzlBP1aPZVoOiaCKQ4rIA5AI7Aezh3RA_CiisRN5btJqYZ9_UlcCSGz-9btpS5hD9eucsIJHhHdtE0bXIpUiK710NWjTbebzEcLgS90kkkNu-SnkGC2R43eBweJOsmI6UrdgwJLJ8NKt4zV-80SMGAPZzRpvJklEpZTnVCf0-NxzgVIeN2xmqFkjVeF7yF2drqJxqDGOtRtZfcPtafj3WsYCON5xTAFXhpw9imnGnPRIM126qFY2Q5g2oneKNqOWn7w9qqMWmDTuDOXMdaJB6JZLJAmq7LyIVSNxrfQ3k6ax9r64WJItdNZioZ97pnPWzWdO8wTRw.jpg)
 * Ну и раз уж заговорили о модах, 📹Sher Li добавила в Metal Hellsinger &lpar;очередной римт-шутан, который все хвалят&rpar; систем-с...
 ![Ну и раз уж заговорили о модах, 📹Sher Li добавила в Metal Hellsinger &lpar;очередной римт-шутан, который все хвалят&rpar; систем-с...](https://cdn4.telegram-cdn.org/file/ucKN454S-lOcMFhpdwobatOAcoP66Xrz7KkNTLLx0BMS-CdFb-Esq5n_izOjIk5t_AzdSJIrCp10K0fGlKt37BJV3z3yc9fY3ich6o1ClCweY5sgmZTnCApo8fdLwWTT4iWnFArW1IBaiXOw6L289vrqe0jKfqO9RRTS9L0V6oHBj9QOyNM_XZnjzmzLO7MF1mGZgr1Dhn3qaw9SPhKmuSxVg_YKKKJyLD4x5k6Wu825lP53sWKNImTtONFWS8Pg6As-xsK8_hoK1_9sFNoddftPSbS1YvG9K4fDXXqNTol2z02nq6l9TYQNhDRW7DWfYCz3OrX_AbpPA6De5JFdhw.jpg)
@@ -76,8 +77,7 @@
 * Буквально только что еще прилетело ахаха
 ![Буквально только что еще прилетело ахаха](https://cdn4.telegram-cdn.org/file/eWqxfoyBKfemMg1J9syiXjB4vZrWHm7rrtsjvYuFt3mMpZMkpFo1gNsv3Ae-1XI9j3Pldw0LVs5DO0wVJgJezMr6UvFmOwyhNBlHMsEqw8kl_mQhyGsL8DJoHwAhDisXWAucjw1Se5fcrhVkb6WQpO8IIaShchaoG6kQZru14T-TARCssYhSu87NM4G7BMImZLitLXy86cXn9WPCQMXS0ekZXsBiuqiK1C4DuzNRmpYKXD1wplwUnavFs5w95kGXUZFRw6c5YZ1YZsid_XC5aYtjYyA5xnBOqtHsEnJNYXlolc3IwfgVCU8IfLeYJoz6b59VUmWkV6rgV4pzkN-0jw.jpg)
 * 🔊🔊🔊
-![🔊🔊🔊](https://cdn4.telegram-cdn.org/file/kdBzk2-HriFb1yVmwDr-gG8H5vQHt20xEAZSKqbPgh4NeApC-1BZEVQ5h3Jg7zbLCzUKDTMNel9WeA1ZdrH_v--JHv-5EJTylIT5s1SV8VZ4IwgSEJaRVlUqXQuTu0OBtfk4B0XwZy7LRbNgGXCPF92Ipqz7gLX2HaWLk1ybJUqn0lpFHCBeJeTXZ0ms63qxu1OflAV18OeW7AfKqvYLFw_G5vB_DBHpejvEUoUgNVooSjeMGRyC_UUBm2_dCoSFF9lU6juMLcHBo-ROeKwAWpbIHo9Vxi3DCUG_q08svEnJ33YcWf7Uds91MlzAOvmud3LSWCIVwKej8f8I7_t8Jw.jpg)
-<!-- BLOG-POST-LIST:END -->
+![🔊🔊🔊](https://cdn4.telegram-cdn.org/file/kdBzk2-HriFb1yVmwDr-gG8H5vQHt20xEAZSKqbPgh4NeApC-1BZEVQ5h3Jg7zbLCzUKDTMNel9WeA1ZdrH_v--JHv-5EJTylIT5s1SV8VZ4IwgSEJaRVlUqXQuTu0OBtfk4B0XwZy7LRbNgGXCPF92Ipqz7gLX2HaWLk1ybJUqn0lpFHCBeJeTXZ0ms63qxu1OflAV18OeW7AfKqvYLFw_G5vB_DBHpejvEUoUgNVooSjeMGRyC_UUBm2_dCoSFF9lU6juMLcHBo-ROeKwAWpbIHo9Vxi3DCUG_q08svEnJ33YcWf7Uds91MlzAOvmud3LSWCIVwKej8f8I7_t8Jw.jpg)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
 
