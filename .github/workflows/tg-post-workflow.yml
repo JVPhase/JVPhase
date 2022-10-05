@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://node2.feed43.com/7276881385885171.xml"
-          template: "* $title$newline![$title]($url)$newline"
+          template: "$newline* $title$newline![$title]($url)"
           max_post_count: 20
