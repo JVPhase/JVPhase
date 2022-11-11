@@ -68,7 +68,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [https://www.instagram.com/p/Cj7xKdMtYnL/?igshid=MDJmNzVkMjY=](https://t.me/doebushka/8988)
 - [Я долго не могла понять при чем тут гражданское право и какие-то двое](https://t.me/doebushka/8982)
-- [вести с полей](https://t.me/doebushka/8977)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
