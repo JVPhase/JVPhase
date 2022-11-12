@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Я слышал тут любят качественный UI](https://t.me/doebushka/9001)
 - [https://www.instagram.com/p/Cj7xKdMtYnL/?igshid=MDJmNzVkMjY=](https://t.me/doebushka/8988)
 - [Я долго не могла понять при чем тут гражданское право и какие-то двое](https://t.me/doebushka/8982)
 <!-- BLOG-POST-LIST:END -->
