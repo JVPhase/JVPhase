@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Райан из офиса продал мне дождевик](https://t.me/doebushka/9009)
 - [https://youtu.be/bl2M3Rim69M](https://t.me/doebushka/9006)
 - [Я сегодня утром с этого угарнул](https://t.me/doebushka/9005)
 - [Я слышал тут любят качественный UI](https://t.me/doebushka/9001)
