@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Это некстген?](https://t.me/doebushka/9019)
 - [[The Smiths - There Is a Light That Never Goes Out]](https://t.me/doebushka/9015)
 - [Райан из офиса продал мне дождевик](https://t.me/doebushka/9009)
 - [https://youtu.be/bl2M3Rim69M](https://t.me/doebushka/9006)
