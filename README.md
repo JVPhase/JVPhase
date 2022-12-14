@@ -66,6 +66,7 @@
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=3ICo9jMqcBE](https://t.me/doebushka/9022)
 - [https://youtu.be/tp6fSjMb0MQ](https://t.me/doebushka/9020)
 - [Это некстген?](https://t.me/doebushka/9019)
 - [[The Smiths - There Is a Light That Never Goes Out]](https://t.me/doebushka/9015)
