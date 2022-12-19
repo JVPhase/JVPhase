@@ -71,7 +71,6 @@
 - [https://youtu.be/tp6fSjMb0MQ](https://t.me/doebushka/9020)
 - [Это некстген?](https://t.me/doebushka/9019)
 - [[The Smiths - There Is a Light That Never Goes Out]](https://t.me/doebushka/9015)
-- [Райан из офиса продал мне дождевик](https://t.me/doebushka/9009)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
