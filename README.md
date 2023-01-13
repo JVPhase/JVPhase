@@ -70,7 +70,6 @@
 - [https://www.youtube.com/watch?v=WHoskaTvjSc](https://t.me/doebushka/9029)
 - [#предложка #классика](https://t.me/doebushka/9025)
 - [https://www.youtube.com/watch?v=3ICo9jMqcBE](https://t.me/doebushka/9022)
-- [https://youtu.be/tp6fSjMb0MQ](https://t.me/doebushka/9020)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
