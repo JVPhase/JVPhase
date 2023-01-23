@@ -1,7 +1,6 @@
 ### Hello, I'm Ivan - aka [jvphase][github] 👋
 
 <br/>
-https://img.shields.io/badge/jvphase-follow-1da1f2
 
 [![Twitter Follow](https://img.shields.io/badge/jvphase-follow-1da1f2?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Twitch Status](https://img.shields.io/twitch/status/jvphase?color=%239146ff&logo=twitch&style=for-the-badge)][twitch]
