@@ -70,6 +70,8 @@ Last Updated: Monday, January 23rd, 2023, 5:01:14 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Channel photo updated](https://t.me/doebushka/9047)
+- [https://vas3k.blog/world/japan/](https://t.me/doebushka/9048)
 - [https://coub.com/view/3a2bgh](https://t.me/doebushka/9044)
 - [https://youtu.be/ikDc_PiXMjg](https://t.me/doebushka/9036)
 - [https://www.youtube.com/watch?v=WHoskaTvjSc](https://t.me/doebushka/9029)
