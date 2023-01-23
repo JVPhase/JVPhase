@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jvphase?color=1da1f2&logo=twitter&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/badge/jvphase?color=1da1f2&logo=twitter&style=for-the-badge)][twitter]
 [![Twitch Status](https://img.shields.io/twitch/status/jvphase?color=%239146ff&logo=twitch&style=for-the-badge)][twitch]
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdsovUd-5SChEk2pNzsNbeA?color=ff0000&logo=youtube&style=for-the-badge)][youtube]
 <br/>
