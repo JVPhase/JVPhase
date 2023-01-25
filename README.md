@@ -74,7 +74,6 @@ Last Updated: Wednesday, January 25th, 2023, 5:01:18 PM
 - [https://vas3k.blog/world/japan/](https://t.me/doebushka/9048)
 - [https://coub.com/view/3a2bgh](https://t.me/doebushka/9044)
 - [https://youtu.be/ikDc_PiXMjg](https://t.me/doebushka/9036)
-- [https://www.youtube.com/watch?v=WHoskaTvjSc](https://t.me/doebushka/9029)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
