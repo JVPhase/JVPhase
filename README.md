@@ -70,11 +70,8 @@ Last Updated: Sunday, February 5th, 2023, 5:01:11 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Самоупаковывающийся хлеп](https://t.me/doebushka/9055)
-- [Микрокек](https://t.me/doebushka/9053)
-- [Channel photo updated](https://t.me/doebushka/9047)
-- [https://vas3k.blog/world/japan/](https://t.me/doebushka/9048)
-- [https://coub.com/view/3a2bgh](https://t.me/doebushka/9044)
+- [Властелин колец в стиле анимеНейросеть видит](https://t.me/doebushka/9057)
+- [Гарри Поттера в стилистике аниме 80-90х годовНейросеть видит](https://t.me/doebushka/9066)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
