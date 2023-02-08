@@ -70,6 +70,7 @@ Last Updated: Wednesday, February 8th, 2023, 5:01:08 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [weme jome is weke ja yf](https://t.me/doebushka/9077)
 - [Властелин колец в стиле анимеНейросеть видит](https://t.me/doebushka/9057)
 - [Гарри Поттера в стилистике аниме 80-90х годовНейросеть видит](https://t.me/doebushka/9066)
 <!-- BLOG-POST-LIST:END -->
