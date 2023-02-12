@@ -72,7 +72,6 @@ Last Updated: Sunday, February 12th, 2023, 5:01:08 PM
 <!-- BLOG-POST-LIST:START -->
 - [https://www.youtube.com/watch?v=m0i8IBZklZg](https://t.me/doebushka/9086)
 - [weme jome is weke ja yf](https://t.me/doebushka/9077)
-- [Гарри Поттера в стилистике аниме 80-90х годовНейросеть видит](https://t.me/doebushka/9066)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
