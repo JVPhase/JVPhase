@@ -71,7 +71,6 @@ Last Updated: Monday, February 13th, 2023, 5:01:19 PM
 
 <!-- BLOG-POST-LIST:START -->
 - [https://www.youtube.com/watch?v=m0i8IBZklZg](https://t.me/doebushka/9086)
-- [weme jome is weke ja yf](https://t.me/doebushka/9077)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
