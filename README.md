@@ -71,7 +71,6 @@ Last Updated: Tuesday, February 14th, 2023, 11:01:10 PM
 
 <!-- BLOG-POST-LIST:START -->
 - [🔉](https://t.me/doebushka/9099)
-- [https://www.youtube.com/watch?v=m0i8IBZklZg](https://t.me/doebushka/9086)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
