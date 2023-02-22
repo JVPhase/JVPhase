@@ -70,7 +70,8 @@ Last Updated: Wednesday, February 22nd, 2023, 3:06:49 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🔉](https://t.me/doebushka/9099)
+- [🔉](https://t.me/doebushka/9175)
+- [Топ 1 продуктовая корзина по мнению Джейми оливера](https://t.me/doebushka/9176)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
