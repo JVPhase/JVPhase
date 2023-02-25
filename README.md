@@ -71,7 +71,6 @@ Last Updated: Saturday, February 25th, 2023, 3:05:52 PM
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube официально запустил функцию дублированного видео, которая позволит ютуберам загружать звуковые дорожки на разных...](https://t.me/doebushka/9201)
-- [Атака совиет титанов](https://t.me/doebushka/9184)
 - [Не смогли смириться с поражением](https://t.me/doebushka/9196)
 <!-- BLOG-POST-LIST:END -->
 
