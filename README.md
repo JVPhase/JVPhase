@@ -71,7 +71,6 @@ Last Updated: Tuesday, February 28th, 2023, 8:09:54 AM
 
 <!-- BLOG-POST-LIST:START -->
 - [Пёсели из «Звёздных войн»Дошли руки до собак, которых я делал три месяца назад. В комментах еще один Оби-Ван Кебобик](https://t.me/doebushka/9227)
-- [Утро понедельника](https://t.me/doebushka/9224)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
