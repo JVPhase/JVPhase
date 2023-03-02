@@ -71,7 +71,6 @@ Last Updated: Thursday, March 2nd, 2023, 10:01:14 AM
 
 <!-- BLOG-POST-LIST:START -->
 - [Доброе утро 🥱](https://t.me/doebushka/9261)
-- [Отчего твои песни не годятся для моих чертогов? Давай, спой мне](https://t.me/doebushka/9247)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
