@@ -70,6 +70,8 @@ Last Updated: Thursday, March 2nd, 2023, 10:01:05 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [На всякий случай https://sooqa.store](https://t.me/doebushka/9276)
+- [Жду в хорошем качестве https://youtu.be/DuWEEKeJLMI](https://t.me/doebushka/9277)
 - [Доброе утро 🥱](https://t.me/doebushka/9261)
 <!-- BLOG-POST-LIST:END -->
 
