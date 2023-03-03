@@ -72,7 +72,6 @@ Last Updated: Friday, March 3rd, 2023, 11:01:04 AM
 <!-- BLOG-POST-LIST:START -->
 - [На всякий случай https://sooqa.store](https://t.me/doebushka/9276)
 - [Жду в хорошем качестве https://youtu.be/DuWEEKeJLMI](https://t.me/doebushka/9277)
-- [Доброе утро 🥱](https://t.me/doebushka/9261)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
