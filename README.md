@@ -70,6 +70,7 @@ Last Updated: Friday, March 3rd, 2023, 11:01:07 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Лаврова осмеяли на G20 после заявлений о войне в УкраинеМинистр иностранных дел России Сергей Лавров был осмеян залом на...](https://t.me/doebushka/9288)
 - [На всякий случай https://sooqa.store](https://t.me/doebushka/9276)
 - [Жду в хорошем качестве https://youtu.be/DuWEEKeJLMI](https://t.me/doebushka/9277)
 <!-- BLOG-POST-LIST:END -->
