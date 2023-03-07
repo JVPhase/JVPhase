@@ -71,7 +71,6 @@ Last Updated: Tuesday, March 7th, 2023, 11:01:20 AM
 
 <!-- BLOG-POST-LIST:START -->
 - [Преступления](https://t.me/doebushka/9321)
-- [«Кролик ДжоДжо» в стиле «Невероятных приключений ДжоДжо»Как хорошо, что с помощью нейросетей можно быстро реализовать лю...](https://t.me/doebushka/9310)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
