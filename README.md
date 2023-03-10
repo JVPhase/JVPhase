@@ -71,7 +71,6 @@ Last Updated: Friday, March 10th, 2023, 11:01:09 AM
 
 <!-- BLOG-POST-LIST:START -->
 - [Papers please remake](https://t.me/doebushka/9362)
-- [🔉](https://t.me/doebushka/9346)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
