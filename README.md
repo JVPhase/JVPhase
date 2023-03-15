@@ -71,8 +71,6 @@ Last Updated: Wednesday, March 15th, 2023, 1:05:18 PM
 
 <!-- BLOG-POST-LIST:START -->
 - [Основательно «перебрав» в Хогсмиде, Гарри бредет через кладбище. В кармане - бутылка огневиски. Видит — перед ним расплы...](https://t.me/doebushka/9417)
-- [Черешня](https://t.me/doebushka/9402)
-- [Да. Я в отпуске](https://t.me/doebushka/9404)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
