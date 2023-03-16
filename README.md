@@ -70,6 +70,7 @@ Last Updated: Thursday, March 16th, 2023, 11:01:18 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделал большой тест новой версии #Midjourney. Показываю. Одинаковый промт в реализации версий от 1-3 &lpar;верхние картинки&rpar; ...](https://t.me/doebushka/9442)
 - [Мэдисон](https://t.me/doebushka/9433)
 <!-- BLOG-POST-LIST:END -->
 
