@@ -71,7 +71,6 @@ Last Updated: Friday, March 17th, 2023, 5:01:10 AM
 
 <!-- BLOG-POST-LIST:START -->
 - [Сделал большой тест новой версии #Midjourney. Показываю. Одинаковый промт в реализации версий от 1-3 &lpar;верхние картинки&rpar; ...](https://t.me/doebushka/9442)
-- [Мэдисон](https://t.me/doebushka/9433)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
