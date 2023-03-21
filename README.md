@@ -70,7 +70,7 @@ Last Updated: Tuesday, March 21st, 2023, 1:01:34 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Сделал большой тест новой версии #Midjourney. Показываю. Одинаковый промт в реализации версий от 1-3 &lpar;верхние картинки&rpar; ...](https://t.me/doebushka/9442)
+- [The Last of Us, но в СССР и с эпидемией борщевика.Спасибо Тарковскому Midjourney за эти антуражные кадры.@exploitex](https://t.me/doebushka/9502)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
