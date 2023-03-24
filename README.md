@@ -70,7 +70,7 @@ Last Updated: Friday, March 24th, 2023, 4:01:11 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last of Us, но в СССР и с эпидемией борщевика.Спасибо Тарковскому Midjourney за эти антуражные кадры.@exploitex](https://t.me/doebushka/9502)
+- [Это нейросеть сделала](https://t.me/doebushka/9543)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more telegram posts...][telegram]
