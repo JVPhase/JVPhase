@@ -70,6 +70,7 @@ Last Updated: Friday, March 24th, 2023, 11:01:20 PM
 ### 📕 Latest Telegram Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [https://youtu.be/ub8pdF543_4](https://t.me/doebushka/9545)
 - [Это нейросеть сделала](https://t.me/doebushka/9543)
 <!-- BLOG-POST-LIST:END -->
 
