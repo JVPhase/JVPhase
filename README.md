@@ -53,14 +53,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [vaizcom/vaiz-node-sdk](https://github.com/vaizcom/vaiz-node-sdk)<br>
-2. ⬆️ Pushed undefined commit(s) to [JVPhase/vaiz-node-sdk](https://github.com/JVPhase/vaiz-node-sdk)<br>
+2. ⬆️ Pushed undefined commit(s) to [vaizcom/vaiz-node-sdk](https://github.com/vaizcom/vaiz-node-sdk)<br>
 3. ⬆️ Pushed undefined commit(s) to [JVPhase/vaiz-node-sdk](https://github.com/JVPhase/vaiz-node-sdk)<br>
 4. ⬆️ Pushed undefined commit(s) to [JVPhase/vaiz-node-sdk](https://github.com/JVPhase/vaiz-node-sdk)<br>
 5. ⬆️ Pushed undefined commit(s) to [JVPhase/vaiz-node-sdk](https://github.com/JVPhase/vaiz-node-sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 5th, 2025, 6:01:41 PM
+Last Updated: Friday, December 5th, 2025, 6:39:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
