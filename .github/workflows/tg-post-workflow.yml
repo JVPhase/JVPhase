@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest tg posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
 #           feed_list: "http://node2.feed43.com/0666623766354583.xml"
